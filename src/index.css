@@ -1,0 +1,58 @@
+body{
+  background-color: antiquewhite;
+  border-radius: 12px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+  text-align: center;
+  margin: 20px 0;
+}
+
+.textLeft{
+  text-align: center;
+  margin-left: ;
+}
+
+.card{
+  width: 450px;
+  border: none;
+  border-radius: 10px;
+  background-color: beige;
+  margin: auto;
+
+}
+.image{
+
+}
+
+.status{
+  background: #f2f5f8;
+  color: #000 !important;
+}
+
+.articles{
+  font-size: 10px;
+  color: #a1aab9;
+
+}
+.number1{
+  font-weight: 500;
+}
+.followers{
+  font-size: 10px;
+  color: #a1aab9;
+}
+
+.number2{
+  font-weight: 500;
+}
+
+.rating{
+  font-size: 10px;
+  color: #a1aab9;
+}
+
+.number3{
+  font-weight: 500;
+}
